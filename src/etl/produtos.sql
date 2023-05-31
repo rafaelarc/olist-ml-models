@@ -56,7 +56,3 @@ select '2018-01-01' as dtReference,
       date(now()) as dtIngestion,
       *
 from tb_summary
-
--- COMMAND ----------
-
-
